@@ -1,0 +1,52 @@
+1- ¿Qué tan satisfecho estás con las capacitaciones brindadas por parte de tu empresa? ,2- ¿Cómo calificarías la calidad de enseñanza de los capacitadores?,3- ¿Cómo calificarías los contenidos / materiales de estudio brindados por la empresa?,4- ¿Cómo calificarías la ejercitación práctica de los contenidos aprendidos?,5- ¿Cuántas horas de capacitación tuviste en los últimos 4 meses?,"6- Actualmente, ¿Cuánto tiempo a la semana dedicas a capacitaciones?",7- ¿Cuán acorde eran las capacitaciones que te brindaron a tus tareas laborales?,"8- La empresa te brindó la oportunidad de capacitarte en las tecnologías usadas por el cliente, en caso de haberte asignado a un proyecto con tecnologías desconocidas:",9- ¿Dedicas horas por fuera de tu horario laboral para cumplir con las capacitaciones / objetivos del proyecto?,10- ¿Qué consideras que es lo más importante para mejorar en las siguientes capacitaciones?  
+Neutral,Buena,Malos,Ni buena ni mala,DIEZ A 30 HORAS,3 A 6 HORAS,Neutral,No,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Satisfecho,Excelente,Buenos,Muy buena,10 a 30 horas,9 a 12 horas,Acordes,Si,No,Profesores
+Satisfecho,Muy buena,Muy buenos,Muy buena,30 a 80 horas,3 a 6 horas,Acordes,Si,No,Profesores
+Poco satisfecho,Muy mala,Buenos,Ni buena ni mala,30 a 80 horas,9 a 12 horas,Neutral,No,No,Profesores
+Muy Satisfecho,Excelente,Excelentes,Muy buena,30 a 80 horas,3 a 6 horas,Totalmente acordes,Si,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Nada satisfecho,Buena,Buenos,Ni buena ni mala,30 a 80 horas,Más de 12 horas,Totalmente acordes,No,Sí,Materiales de estudio
+Muy Satisfecho,Excelente,Muy buenos,Muy buena,1 a 10 horas,9 a 12 horas,Neutral,Si,Sí,Ejercitación Práctica
+Muy Satisfecho,Excelente,Muy buenos,Buena,30 a 80 horas,3 a 6 horas,Acordes,Si,No,Ejercitación Práctica
+Satisfecho,Excelente,Muy malos,Ni buena ni mala,Más de 80 horas,3 a 6 horas,Nada acordes,Si,No,Ejercitación Práctica
+Poco satisfecho,Mala,Buenos,Buena,10 a 30 horas,9 a 12 horas,Neutral,No,Sí,Profesores
+Neutral,Mala,Muy buenos,Excelente,1 a 10 horas,3 a 6 horas,Acordes,Si,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Poco satisfecho,Mala,Muy malos,Muy mala,1 a 10 horas,3 a 6 horas,Nada acordes,Si,Sí,Tiempos
+Nada satisfecho,Muy mala,Muy malos,Muy mala,Más de 80 horas,Más de 12 horas,Nada acordes,No,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Nada satisfecho,Muy mala,Muy malos,Mala,Más de 80 horas,Más de 12 horas,Poco acordes,No,No,Tiempos
+Muy Satisfecho,Excelente,Excelentes,Excelente,Más de 80 horas,9 a 12 horas,Acordes,Si,No,Materiales de estudio
+Satisfecho,Muy buena,Muy buenos,Buena,Más de 80 horas,9 a 12 horas,Acordes,Si,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Poco satisfecho,Buena,Malos,Ni buena ni mala,10 a 30 horas,3 a 6 horas,Poco acordes,No,Sí,Materiales de estudio
+Neutral,Muy buena,Buenos,Ni buena ni mala,10 a 30 horas,Más de 12 horas,Acordes,Si,Sí,Ejercitación Práctica
+Poco satisfecho,Mala,Buenos,Ni buena ni mala,1 a 10 horas,Más de 12 horas,Nada acordes,No,Sí,Profesores
+Neutral,Buena,Buenos,Mala,1 a 10 horas,3 a 6 horas,Poco acordes,Si,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Satisfecho,Excelente,Buenos,Buena,30 a 80 horas,1 a 3 horas,Poco acordes,Si,No,Ejercitación Práctica
+Muy Satisfecho,Excelente,Excelentes,Muy buena,Más de 80 horas,Más de 12 horas,Acordes,No,No,Ejercitación Práctica
+Satisfecho,Buena,Muy buenos,Buena,30 a 80 horas,3 a 6 horas,Neutral,Si,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Nada satisfecho,Muy mala,Muy malos,Muy mala,1 a 10 horas,1 a 3 horas,Nada acordes,Si,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Neutral,Buena,Buenos,Buena,30 a 80 horas,Más de 12 horas,Acordes,Si,No,Ejercitación Práctica
+Muy Satisfecho,Buena,Malos,Excelente,10 a 30 horas,Más de 12 horas,Acordes,No,Sí,Ejercitación Práctica
+Neutral,Buena,Muy malos,Muy buena,Más de 80 horas,Más de 12 horas,Poco acordes,No,No,Ejercitación Práctica
+Poco satisfecho,Muy mala,Excelentes,Ni buena ni mala,1 a 10 horas,9 a 12 horas,Poco acordes,No,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Neutral,Muy buena,Excelentes,Ni buena ni mala,10 a 30 horas,9 a 12 horas,Nada acordes,No,Sí,Ejercitación Práctica
+Poco satisfecho,Mala,Muy malos,Ni buena ni mala,10 a 30 horas,3 a 6 horas,Neutral,Si,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Nada satisfecho,Mala,Malos,Mala,Más de 80 horas,3 a 6 horas,Totalmente acordes,No,Sí,Tiempos
+Neutral,Mala,Malos,Ni buena ni mala,10 a 30 horas,9 a 12 horas,Neutral,No,No,Profesores
+Neutral,Mala,Malos,Ni buena ni mala,30 a 80 horas,1 a 3 horas,Acordes,No,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Satisfecho,Buena,Buenos,Ni buena ni mala,10 a 30 horas,9 a 12 horas,Neutral,Si,Sí,Compensaciones (Beneficios / Seniority / Sueldo)
+Poco satisfecho,Mala,Malos,Ni buena ni mala,10 a 30 horas,1 a 3 horas,Poco acordes,Si,Sí,Profesores
+Satisfecho,Muy buena,Muy buenos,Ni buena ni mala,30 a 80 horas,9 a 12 horas,Neutral,No,Sí,Ejercitación Práctica
+Neutral,Mala,Buenos,Mala,30 a 80 horas,3 a 6 horas,Poco acordes,Si,Sí,Profesores
+Poco satisfecho,Buena,Buenos,Buena,10 a 30 horas,3 a 6 horas,Poco acordes,No,Sí,Profesores
+Neutral,Mala,Muy buenos,Ni buena ni mala,10 a 30 horas,3 a 6 horas,Poco acordes,Si,No,Tiempos
+Nada satisfecho,Mala,Muy malos,Mala,1 a 10 horas,1 a 3 horas,Nada acordes,No,No,Profesores
+Satisfecho,Muy buena,Buenos,Muy buena,30 a 80 horas,9 a 12 horas,Acordes,Si,Sí,Profesores
+Muy Satisfecho,Muy buena,Excelentes,Muy buena,30 a 80 horas,9 a 12 horas,Acordes,Si,No,Materiales de estudio
+Nada satisfecho,Mala,Malos,Mala,10 a 30 horas,9 a 12 horas,Poco acordes,No,Sí,Profesores
+Satisfecho,Buena,Muy buenos,Buena,10 a 30 horas,9 a 12 horas,Neutral,No,No,Ejercitación Práctica
+Neutral,Buena,Muy buenos,Mala,Más de 80 horas,Más de 12 horas,Poco acordes,No,No,Compensaciones (Beneficios / Seniority / Sueldo)
+Satisfecho,Mala,Excelentes,Ni buena ni mala,Más de 80 horas,3 a 6 horas,Acordes,Si,Sí,Materiales de estudio
+Satisfecho,Buena,Buenos,Excelente,10 a 30 horas,Más de 12 horas,Neutral,Si,Sí,Materiales de estudio
+Neutral,Buena,Buenos,Ni buena ni mala,30 a 80 horas,9 a 12 horas,Neutral,Si,No,Ejercitación Práctica
+Satisfecho,Muy mala,Muy malos,Muy buena,10 a 30 horas,9 a 12 horas,Neutral,Si,Sí,Materiales de estudio
+Nada satisfecho,Muy mala,Muy malos,Muy mala,30 a 80 horas,Más de 12 horas,Poco acordes,No,No,Tiempos
+Neutral,Mala,Buenos,Mala,1 a 10 horas,3 a 6 horas,Poco acordes,No,No,Tiempos
